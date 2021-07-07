@@ -2,7 +2,7 @@
 
 *The project is practice for the backend development tools PHP and SQL.*
 
-*As of July 2nd, 2021, the Incident Response Form repository is only holds html and css files. PHP and SQL files will come in the coming weeks. Due to Github Pages only supporting static webpages and a lack of a host domain, a video demo will be out shortly after the project is finished.*
+*As of July 6th, 2021, the Incident Response Form repository is only holds html, css, and php files. SQL files will come in the coming weeks. Due to Github Pages only supporting static webpages and a lack of a host domain, a video demo will be out shortly after the project is finished.*
 
 -----------------------------------
 Basic-Incident-Response-Form
