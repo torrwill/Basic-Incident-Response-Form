@@ -2,16 +2,15 @@
 
 *The project is practice for the backend development tools PHP and SQL.*
 
-*As of July 6th, 2021, the Incident Response Form repository is only holds html, css, and php files. SQL files will come in the coming weeks. Due to Github Pages only supporting static webpages and a lack of a host domain, a video demo will be out shortly after the project is finished.*
+*Due to Github Pages only supporting static webpages and a lack of a host domain, a video demo will be out shortly.*
 
 -----------------------------------
 Basic-Incident-Response-Form
-===================================
+
 
 ![DEMO](form.png)
 
 ## How the Basic-Incident-Response-Form Works
--------------------
 Using HTML, CSS, SQL, and PHP, the form will track incidents as they occur. When an incident is declared, it is assigned a unique identifier and it is recorded in a database. For each incident, the incident number, a type of incident (chosen from a dynamically changing list), the date it was created, an incident state ('open', 'closed', 'stalled'), and a list of free-form comments is maintained. Associated with each comment is the name of the handler who wrote it.
 
 In addition, associated with each incident could be any number of people (last name, first name, job title, email address), and any number of IP addresses. With each IP address or each person, the handler can record a reason for the address association.
